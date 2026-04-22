@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kOqwghv0)
-# ML Project — [Название проекта]
+# ML Project — Прогнозирование пит-стопа в Формуле-1
 
-**Студент:** [ФИО / Student ID]
+**Студент:** Сухарников Василий Ильич
 
-**Группа:** [Группа]
+**Группа:** БИВ238
 
 
 ## Оглавление
@@ -20,9 +20,9 @@
 
 <!-- Кратко опишите задачу: что предсказываем, какой датасет, метрика качества -->
 
-**Задача:** [Классификация / Регрессия / Кластеризация / ...]
+**Задача:** Классификация
 
-**Датасет:** [Название и источник датасета]
+**Датасет:** F1 Strategy Dataset | Pit Stop Prediction, https://www.kaggle.com/datasets/aadigupta1601/f1-strategy-dataset-pit-stop-prediction
 
 **Целевая метрика:** [Accuracy / F1 / RMSE / ...]
 
